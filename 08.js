@@ -1,9 +1,9 @@
 // Variable declarations
-var studlyCapvar;
+var studlyCapVar;
 var properCamelCase;
 var titleCaseOver;
 
 // Variable assignments
-studlyCapvar = 10;
+studlyCapVar = 10;
 properCamelCase = "A String";
 titleCaseOver = 9000;
